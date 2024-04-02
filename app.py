@@ -3,7 +3,7 @@ import assemblyai as ai
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-ai.settings.api_key = "3b448c6f3e994b86882c4a9dc6a5290a"
+ai.settings.api_key = "API_KEY"
 
 st.title("Customer Satisfaction from Audio Recording")
 
