@@ -1,4 +1,4 @@
-### ***GenAi based QMS***
+### ***QoS Improvement from Customer Voice Data***
 
 *This web application allows users to upload audio recordings and analyze customer satisfaction levels to improve the Quality of their Service using Sentiment Analysis. It transcribes the audio using the AssemblyAI transcription service, performs sentiment analysis on the transcribed text, and visualizes the sentiment distribution and highlights using a word cloud.*
 
