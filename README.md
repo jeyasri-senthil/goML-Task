@@ -1,29 +1,34 @@
-### ***QoS Improvement from Customer Voice Data***
+### ***Audio Sentiment Analysis & Word Visualization with Assembly AI***
 
-*This web application allows users to upload audio recordings and analyze customer satisfaction levels to improve the Quality of their Service using Sentiment Analysis. It transcribes the audio using the AssemblyAI transcription service, performs sentiment analysis on the transcribed text, and visualizes the sentiment distribution and highlights using a word cloud.*
+*This repository provides a solution for sentiment analysis and visualization of highlighted words from audio data using Assembly AI.*
+
+### ***Introduction***
+
+*Sentiment analysis is crucial for understanding emotional tones in audio data. Assembly AI offers powerful APIs for transcribing audio into text, enabling sentiment analysis and word visualization.*
 
 ![output](https://github.com/jeyasri-senthil/goML-Task/assets/108861190/497cbb51-3dad-4cc9-9e80-7c51274d1a06)
 
 
 ### ***FEATURES***
 
-***Audio Upload:*** *Users can upload audio recordings directly through the web interface.*
+***Audio Transcription:*** *Utilize Assembly AI's API to transcribe audio files into textual data.*
 
-***Sentiment Analysis:*** *The application performs sentiment analysis on the transcribed text to determine whether the customer satisfaction level is positive, negative, or neutral.*
+***Sentiment Analysis:*** *Analyze sentiment to grasp the emotional context of the transcribed text.*
 
-***Word Cloud Visualization:*** *Highlights from the transcript are visualized as a word cloud to provide a summary of the coversation.*
+***Word Cloud Visualization:*** *Highlights from the transcript are visualized as a word cloud to provide a summary of the conversation.*
 
 ### ***USAGE***
 
-*1. Run the Streamlit app:*
-`streamlit run app.py`
+### ***GETTING STARTED***
 
-*- Access the web application in your browser at http://localhost:8501.*
+***Sign up for Assembly AI:*** *Obtain your API key from Assembly AI's website.*
 
-*- Upload an audio recording (in MP3 or WAV format) using the file uploader widget.*
+***Clone the Repository:*** `git clone https://github.com/jeyasri-senthil/goML-Task`
 
-*- Wait for the transcription and sentiment analysis to complete.*
+***Install Dependencies:*** `pip install streamlit wordcloud assemblyai matplotlib` ...
 
-*- View the sentiment analysis result and the word cloud visualization of highlights.*
+***Configure API Key:*** *Set your Assembly AI API key in the configuration file.*
 
+***Run the Script:*** *Execute the Python script to perform sentiment analysis and generate visualizations.*
 
+***Explore Results:*** *Analyze sentiment results and visualizations.*
