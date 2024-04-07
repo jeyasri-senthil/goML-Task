@@ -23,9 +23,9 @@
 
 ***Sign up for Assembly AI:*** *Obtain your API key from Assembly AI's website.*
 
-***Clone the Repository:*** `git clone https://github.com/jeyasri-senthil/goML-Task`
+***Clone the Repository:*** *`git clone https://github.com/jeyasri-senthil/goML-Task.git`*
 
-***Install Dependencies:*** `pip install streamlit wordcloud assemblyai matplotlib` ...
+***Install Dependencies:*** *`pip install streamlit wordcloud assemblyai matplotlib` ...*
 
 ***Configure API Key:*** *Set your Assembly AI API key in the configuration file.*
 
