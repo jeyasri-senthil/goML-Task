@@ -9,7 +9,7 @@
 ![output](https://github.com/jeyasri-senthil/goML-Task/assets/108861190/497cbb51-3dad-4cc9-9e80-7c51274d1a06)
 
 
-### ***FEATURES***
+### ***Features***
 
 ***Audio Transcription:*** *Utilize Assembly AI's API to transcribe audio files into textual data.*
 
@@ -17,9 +17,8 @@
 
 ***Word Cloud Visualization:*** *Highlights from the transcript are visualized as a word cloud to provide a summary of the conversation.*
 
-### ***USAGE***
 
-### ***GETTING STARTED***
+### ***Getting Started***
 
 ***Sign up for Assembly AI:*** *Obtain your API key from Assembly AI's website.*
 
